@@ -81,6 +81,7 @@ crashlytics-build.properties
 
 # JetBrains Rider / IntelliJ 설정 파일
 .idea/
+Temp/
 
 # Unity Asset Store Tools 플러그인
 [Aa]ssets/AssetStoreTools*
